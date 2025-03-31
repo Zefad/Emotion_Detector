@@ -24,8 +24,8 @@ A web application that analyzes text to detect emotions using IBM Watson's Natur
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd final_project
+git clone https://github.com/Zefad/Emotion_Detector.git
+cd Emotion_Detector
 ```
 
 2. Install the required dependencies:
